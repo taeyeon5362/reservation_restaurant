@@ -11,6 +11,6 @@
 ### 로그인
 - Login.jsp / LogInForm.java / Customer.java / CustomerRepository.java 파일에서 동작
 
-![Captum](./img/signup_1.png)
+![Captum](./img/singup_1.png)
 ### 회원가입
 
