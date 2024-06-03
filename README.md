@@ -3,6 +3,7 @@
 
 ## 시스템 구조
 ![Captum](./img/system.png)
+![Captum](./img/mvc.png)
 
 ## 1. 메인페이지
 ![Captum](./img/main_1.png)
