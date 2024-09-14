@@ -21,6 +21,7 @@
 ![Captum](./img/singup_1.png)
 ### 회원가입
 
+
 ## 3. 예약
 ![Captum](./img/reservation_1.png)
 ![Captum](./img/reservation_2.png)
